@@ -1,18 +1,7 @@
-# ops-reading-notes
-This repo is a collection of all my reading notes while studying at Code Fellows Ops and Cybersecurity
-
-
-
-
-
-
-
-
-
-
-
 ## Ops Class 401d6 Reading Notes
 ### Cybersecurity Engineering
+This repo is a collection of my reading notes for Seattle Cybersecurity Ops 401d6
+
 
 |Class |Link |
 |---|---|
